@@ -1,3 +1,5 @@
+Deployed on https://petr7555.github.io/github-pages-demo.
+
 # GitHub pages demo
 
 - Repository must be public (or with Pro account you can publish private repositories)
