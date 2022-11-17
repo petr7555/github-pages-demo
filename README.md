@@ -12,7 +12,7 @@ And that's it.
 
 You can set it up in the settings tab in the web interface of your Github repository. By default, the page will be
 hosted on `https://GITHUB_USERNAME.github.io/REPOSITORY_NAME` url.
-
+https://petr7555.github.io/github-pages-demo
 There is also one special case where if you create a repository named `GITHUB_USERNAME.github.io` it will be hosted
 on `https://GITHUB_USERNAME.github.io` directly.
 
