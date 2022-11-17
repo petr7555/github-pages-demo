@@ -2,7 +2,7 @@
 
 - Repository must be public (or with Pro account you can publish private repositories)
 - Add `homepage` to `package.json` file:
-  ```json
+  ```jsonc
   {
     // ...
     "homepage": "https://GITHUB_USERNAME.github.io/REPOSITORY_NAME"
@@ -29,7 +29,7 @@
 	- `gh-pages` branch and `/(root)` in this case
 - `npm i -D gh-pages`
 - Add `deploy` script to `package.json`:
-  ```json
+  ```jsonc
   {
     // ...
     "scripts": {
