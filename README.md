@@ -1,4 +1,4 @@
-Deployed on https://petr7555.github.io/github-pages-demo.
+Deployed at https://petr7555.github.io/github-pages-demo.
 
 # GitHub pages demo
 
